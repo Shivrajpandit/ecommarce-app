@@ -17,18 +17,21 @@ A modern and responsive e-commerce mobile application built with **Flutter**. Th
 ![Home](assets\images\screenshort\screenshort\home)
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 ### 🔐 Login Required Popup
-![Login Popup](assets/images/screenshots/screenshots/login.png)
+![Login Popup](eapp/assets/images/screenshort/screenshort/login.png)
 
 ### 🏠 Home Screen
-![Home Screen](assets/images/screenshots/screenshots/homepage.png)
+![Home Screen](eapp/assets/images/screenshort/screenshort/homepage.png)
 
 ### 🛍️ Product Detail
-![Product Detail](assets/images/screenshots/screenshots/product.png)
+![Product Detail](eapp/assets/images/screenshort/screenshort/product.png)
 
 ### 🧾 Add to Cart Popup
-![Add to Cart](assets/images/screenshots/screenshots/addcard.png)
+![Add to Cart](eapp/assets/images/screenshort/screenshort/addcard.png)
 
 ### 📰 News / Blog Page
-![News Page](assets/images/screenshots/screenshots/detailnews.png)
+![News Page](eapp/assets/images/screenshort/screenshort/detailnews.png)
+
 # ecommarce-app
