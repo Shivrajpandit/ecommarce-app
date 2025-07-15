@@ -14,7 +14,7 @@ A modern and responsive e-commerce mobile application built with **Flutter**. Th
 ---
 
 ## 📷 Screenshots 
-![Home](assets\images\screenshort\screenshort)
+![Home](assets\images\screenshort\screenshort\home)
 ## 📷 Screenshots
 
 ### 🔐 Login Required Popup
